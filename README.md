@@ -1,7 +1,7 @@
 # Tic-Tac-Toe vs Computer
 Unbeatable Tic Tac Toe AI using Python and PySimpleGUI, implementing Minimax and iterative depth algorithms for strategic gameplay
-Code Snippets:
 
+Code Snippets:
 ![image](https://github.com/Parasar33/Tic-Tac-Toe-vs-AI/assets/110784718/807f2d09-0e39-4d4f-8829-fc2f4bc28be2)
 ***********************************************************************************************************************************************************************************************************************
 ![image](https://github.com/Parasar33/Tic-Tac-Toe-vs-AI/assets/110784718/9523c6a4-5a15-4c14-acea-efc1142170cc)
